@@ -1,7 +1,7 @@
 package jdbc.database;
 
 import java.sql.Connection;
-import java.sql.DriverManager;
+// import java.sql.DriverManager;
 
 public class dbconn {
     public Connection con = getConnection();
